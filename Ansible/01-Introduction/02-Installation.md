@@ -12,7 +12,6 @@ have python2 or python3 installed on them.
 https://docs.ansible.com/ansible/latest/installation_guide/intro_installation.html
 
 ## **Installing Ansible on Ubuntu**
-#
   $ sudo hostnamectl set-hostname ansible
   $ sudo adduser ansible \
   $ echo "ansible ALL=(ALL) NOPASSWD:ALL" | sudo tee /etc/sudoers.d/ansible \
